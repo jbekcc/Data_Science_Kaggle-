@@ -1,7 +1,7 @@
 # Data_Science_Kaggle-
 
-#data, project 1
-https://www.kaggle.com/openfoodfacts/world-food-facts/downloads/world-food-facts-release-2016-01-13-03-19-37.zip
+#Data Project 1
+- https://www.kaggle.com/openfoodfacts/world-food-facts/downloads/world-food-facts-release-2016-01-13-03-19-37.zip
 
 #Data Project 2
 1.Kaggle
